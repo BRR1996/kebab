@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+	<channel>
+		<title>
+			KebabPa
+		</title>
+		<link>
+			https://brr1996.github.io/kebab/html/index.html
+		</link>
+		<description>
+			Este sitio es la página web oficial de KebabPa, donde puedes ver información sobre nosotros y estar atent@ sobre nuevas ofertas.
+		</description>
+		<item>
+			<title>
+				Inicio
+			</title>
+			<link>
+				https://brr1996.github.io/kebab/index.html
+			</link>
+			<description>
+				Aquí encontrarás información, como el horario o sobre nosotros.
+			</description>
+			<category>
+				Información
+			</category>
+			<guid>
+				https://brr1996.github.io/kebab/index.html
+			</guid>
+		</item>
+		<item>
+			<title>
+				Multimedia
+			</title>
+			<link>
+				https://brr1996.github.io/kebab/html/multimedia.html
+			</link>
+			<description>
+				Aquí puedes ver imágenes de nuestro menú y vídeos sobre el kebab.
+			</description>
+			<category>
+				Archivos
+			</category>
+			<guid>
+				https://brr1996.github.io/kebab/html/multimedia.html
+			</guid>
+		</item>
+		<item>
+			<title>
+				Historia
+			</title>
+			<link>
+				https://brr1996.github.io/kebab/html/historia.html
+			</link>
+			<description>
+				Aquí podrás leer sobre nuestra historia.
+			</description>
+			<category>
+				Historia
+			</category>
+			<guid>
+				https://brr1996.github.io/kebab/html/historia.html
+			</guid>
+		</item>
+		<item>
+			<title>
+				Contactos
+			</title>
+			<link>
+				https://brr1996.github.io/kebab/html/contacto.html
+			</link>
+			<description>
+				Aquí puedes darnos tus datos personales en caso de que quieras trabajar con nosotros.
+			</description>
+			<category>
+				Formulario
+			</category>
+			<guid>
+				https://brr1996.github.io/kebab/html/contacto.html
+			</guid>
+		</item>
+	</channel>
+</rss>
